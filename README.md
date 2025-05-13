@@ -1,1 +1,1 @@
-Poject Matematika Diskrit.
+# Poject Matematika Diskrit.
