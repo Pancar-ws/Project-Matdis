@@ -1,1 +1,1 @@
-# Matdis---Project
+Poject Matematika Diskrit.
